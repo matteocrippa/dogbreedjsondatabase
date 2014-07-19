@@ -1,4 +1,5 @@
-dogbreedjsondatabase
+Dog breeds json database
+
 ====================
 
-Dog breeds json database
+Work in progress
