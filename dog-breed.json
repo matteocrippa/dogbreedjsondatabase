@@ -1,0 +1,108 @@
+{
+  "Group 1": {
+    "name": "Sheepdogs and Cattledogs",
+    "breed": {
+      "Australian Kelpie" : {
+        "origin": "australia"
+      },
+      "Belgian shepherd dog" : {
+        "origin": "belgium",
+        "varieties": [
+          "Laekenois",
+          "Tervueren",
+          "Groendael",
+          "Malinois"
+        ]
+      },
+      "Schipperke" : {
+        "origin" : "belgium"
+      },
+      "Croatian sheperd dog" : {
+        "origin" : "croatia"
+      },
+      "Berger de Beauce" : {
+        "origin" : "france"
+      },
+      "Briard" : {
+        "origin" : "france"
+      },
+      "Long-Haired Pyrenean Sheepdog" : {
+        "origin" : "france"
+      },
+      "Picardy Sheepdog" : {
+        "origin" : "france"
+      },
+      "Pyremeam sheepdog - smooth faced" : {
+        "origin" : "france"
+      },
+      "German shepherd dog" : {
+        "origin": "germany",
+        "varieties": [
+          "Double coat",
+          "Long and harsh outer coat"
+        ]
+      },
+      "Beared collie" : {
+        "origin" : "great britain"
+      },
+      "Bobtail" : {
+          "origin" : "great britain"
+      },
+      "Border collie" : {
+          "origin" : "great britain"
+      },
+      "Collie rough" : {
+          "origin" : "great britain"
+      },
+      "Collie smooth" : {
+          "origin" : "great britain"
+      },
+      "Shetland Sheepdog" : {
+          "origin" : "great britain"
+      },
+      "Welsh Corgi Cardigan" : {
+          "origin" : "great britain"
+      },
+      "Welsh Corgi Pembroke" : {
+          "origin" : "great britain"
+      }
+	  
+    }
+  },
+  "Group 2":{
+    "name": "Terriers",
+    "description": ""
+  },
+  "Group 3":{
+    "name": "Spitz and primitive types",
+    "description": ""
+  },
+  "Group 4":{
+    "name": "Pointing Dogs",
+    "description": ""
+  },
+  "Group 5":{
+    "name": "Companion and Toy Dogs",
+    "description": ""
+  },
+  "Group 6":{
+    "name": "Pinscher and Schnauzer - Molossoid and Swiss Mountain and Cattledogs",
+    "description": ""
+  },
+  "Group 7":{
+    "name": "Dachshunds",
+    "description": ""
+  },
+  "Group 8":{
+    "name": "Scenthounds and related breeds",
+    "description": ""
+  },
+  "Group 9":{
+    "name": "Retrievers - Flushing Dogs - Water Dogs",
+    "description": ""
+  },
+  "Group 10":{
+    "name": "Sighthounds",
+    "description": ""
+  }
+}
